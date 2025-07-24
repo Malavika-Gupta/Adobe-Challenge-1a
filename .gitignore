@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Docker
+*.log
+
+# Output data
+sample_dataset/outputs/*
